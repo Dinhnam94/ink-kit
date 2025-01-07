@@ -11,7 +11,6 @@ npm install @inkonchain/ink-kit
 # or
 pnpm install @inkonchain/ink-kit
 ```
-
 ## Usage
 
 ```tsx
